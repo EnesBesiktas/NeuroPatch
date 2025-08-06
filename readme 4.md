@@ -34,26 +34,56 @@
 </td>
 </tr>
 </table>
+
+---
+
 🎥 Canlı Demo
 Projemizin işleyişini ve kullanıcıya sunduğu değeri görmek için aşağıdaki demoyu izleyebilirsiniz.
 [Buraya Proje Demosu Videosu veya GIF Eklenecek]
+
+---
+
 🛠️ Teknoloji Yığını (Tech Stack)
+
 InfinitiumX, modern ve güçlü teknolojiler üzerine inşa edilmiştir.
 Kategori	Teknolojiler
+
 🎨 Frontend	React, Vite, TypeScript, Tailwind CSS, ESLint, PostCSS
+
 ⚙️ Backend	FastAPI, Python, Uvicorn, Pydantic, HTTPX, WebSockets, SSE-Starlette
+
 🧠 AI & ML	Vertex AI (Gemini 2.5 Pro), CrewAI, OpenAI, FAISS, Sentence Transformers, PyTorch, Scikit-learn, NumPy, Pandas
+
+
 🕸️ Veri Toplama	Crawl4AI, BeautifulSoup4, SerpAPI, Bing Web Search API
+
 🛡️ Güvenlik	Firebase Auth, Python-Jose (JWT), Bcrypt
+
 ☁️ Altyapı & Veri	Google Cloud Platform (Cloud Run, Firestore, Cloud Storage, Secret Manager), Docker, Terraform
+
+
 📊 Gözlem & Test	OpenTelemetry, Prometheus, Sentry, Structlog, Pytest, PSUtil
+
+---
+
 🔮 Yol Haritası (Roadmap)
 Gelecekte InfinitiumX'i daha da ileriye taşıyacak hedeflerimiz:
 Özelleştirilmiş AI Modelleri: Alan-odaklı ihtiyaçlar için kendi yapay zeka modellerimizi eğitmek (AutoML, Fine-tuning).
+
+
 Esnek API Sorguları: Frontend'in ihtiyaç duyduğu veriyi daha verimli bir şekilde almasını sağlamak için GraphQL desteği eklemek.
+
+
 Uçtan Uca Performans Optimizasyonu: WebAssembly (WASM) kullanarak tarayıcı tarafında yüksek performans gerektiren işlemleri hızlandırmak.
+
+
 Mobil Deneyim: Projeyi Progressive Web App (PWA) haline getirerek mobil cihazlarda da kusursuz, kurulabilir bir deneyim sunmak.
+
+
 Gelişmiş Gerçek Zamanlı Yetenekler: Eşler arası (peer-to-peer) iletişim senaryoları için WebRTC entegrasyonu.
+
+---
+
 🏆 Katkıda Bulunanlar
 Bu projenin hayata geçmesinde rol alan ekip:
 <!-- Örnek: [![Kullanıcı Adı](https://github.com/kullaniciadi.png?size=50)](https://github.com/kullaniciadi) -->
