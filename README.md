@@ -90,6 +90,7 @@ Konteynerizasyon ve altyapının kodla yönetimi (IaC).
 <details>
 <summary><strong>🤖 Backend, AI & Machine Learning</strong></summary>
 Framework & Sunucu: FastAPI, Uvicorn
+
 Veri Doğrulama ve Yönetim: Pydantic, Pydantic-Settings
 
 AI Ajanları: CrewAI
