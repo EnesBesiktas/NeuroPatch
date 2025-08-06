@@ -93,9 +93,13 @@ Gözlemlenebilirlik
 
 <summary><strong>Tüm teknoloji listesini görmek için tıklayın...</strong></summary>
 Backend, AI & Machine Learning: FastAPI, Uvicorn, Pydantic, CrewAI, Google Cloud AI Platform (Vertex AI, Gemini 2.5 Pro), OpenAI, FAISS-CPU, Sentence Transformers, Transformers, PyTorch, Scikit-learn, SciPy, NumPy, Pandas, Crawl4AI, BeautifulSoup4, SerpAPI, HTTPX, WebSockets, SSE-Starlette.
+
 Frontend & Geliştirme Araçları: React 18, Vite, Tailwind CSS, PostCSS, Autoprefixer, ESLint, TypeScript.
+
 Veritabanı, Depolama & Altyapı: Firebase Admin (Firestore), Google Cloud Storage, Docker, Docker Compose, Terraform, Google Cloud Platform (Cloud Run, Secret Manager, Cloud Logging).
+
 Güvenlik & Kimlik Doğrulama: Python-Jose (JWT), Bcrypt, Firebase Authentication.
+
 Gözlemlenebilirlik & Test: OpenTelemetry, Prometheus Client, Sentry SDK, Structlog, Rich, PSUtil, Pytest.
 </details>
 
