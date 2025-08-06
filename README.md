@@ -1,4 +1,6 @@
 🌟 InfinitiumX | AI Destekli Akıllı Ürün Motoru 🌟
+
+
 <table>
 <tr>
 <td align="center" width="20%">
@@ -21,6 +23,10 @@
 </td>
 </tr>
 </table>
+
+---
+
+
 🚀 Proje Hakkında
 <a name="proje-hakkinda"></a>
 InfinitiumX, geleneksel ürün arama deneyimini tamamen değiştiren, yapay zeka destekli bir ürün arama ve öneri motorudur. Kullanıcıların ne istediğini anlayan, web üzerindeki en doğru ürünleri bulan ve kişiselleştirilmiş öneriler sunan modern bir full-stack uygulamasıdır. Projemiz, mikroservis mimarisiyle tasarlanmış olup, Google Cloud Platform'un gücünden faydalanarak yüksek ölçeklenebilirlik ve performans sunar.
